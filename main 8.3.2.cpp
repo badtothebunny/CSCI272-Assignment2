@@ -1,5 +1,5 @@
 //This program reads from two files and decodes one file.
-//Programmer: Maria Psomas
+//Programmer: Badtothebunny
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -28,3 +28,4 @@ int main(int argc, char** argv) {
 	}
 	return 0;
 }
+
